@@ -1,0 +1,13 @@
+.env
+*.tfvars
+*.tfvars.json
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tflock
+*.lock.hcl
+reports/
+__pycache__/
+*.pyc
+*.code-workspace
+backend.hcl

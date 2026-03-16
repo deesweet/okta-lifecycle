@@ -1,0 +1,2 @@
+# okta_api_token should be set via TF_VAR_okta_api_token, never committed
+okta_org_name  = "dev-123456"

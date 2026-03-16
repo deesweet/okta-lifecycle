@@ -1,0 +1,5 @@
+bucket       = "your-tfstate-bucket"
+key          = "okta-lifecycle/terraform.tfstate"
+region       = "your-default-region"
+encrypt      = true
+use_lockfile = true
